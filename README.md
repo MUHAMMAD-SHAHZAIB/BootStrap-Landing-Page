@@ -1,8 +1,6 @@
 # Frontend Bootcamp Website - Bootstrap 5
 
-> Simple one page website for a fake bootcamp
 
-This is part of a [YouTube tutorial](https://www.youtube.com/watch?v=4sosXZsdy-s&t=186s)
 
-### Website Demo
-https://www.frontendbootcampdemo.com/
+![FireShot Capture 019 - Frontend Bootcamp - 127 0 0 1](https://user-images.githubusercontent.com/90214531/217737304-4a229d3e-b741-465a-84af-59f1d5df456d.png)
+
